@@ -3,9 +3,9 @@
 
 ## Authorization Bearer
 
-[![Build Status](https://travis-ci.com/xenalara/cf401-13-bearer-authorization.svg?token=56RNb9sTT3JWehcFzPyz&branch=master)](https://travis-ci.com/xenalara/cf401-13-bearer-authorization)
+[![Build Status]()
 
-### Author: HN
+### Author: Steven Jones
 
 ### Links and Resources
 * [repo]()
