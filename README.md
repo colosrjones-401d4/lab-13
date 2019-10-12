@@ -1,3 +1,4 @@
+
 ## Lab 13: Bearer Authorization
 
 ### Author: Steven Jones
